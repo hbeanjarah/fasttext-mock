@@ -1,0 +1,18 @@
+__label__Work office type
+__label__Work employers
+__label__Work job titles
+__label__Work industries
+__label__office_type small office
+__label__office_type small business
+__label__office_type home office
+__label__industries administrative
+__label__industries architecture
+__label__industries engineering
+__label__industries cleaning
+__label__home household
+__label__home home type
+__label__home_type apartment
+__label__home_type condo
+__label__home_type single
+
+
